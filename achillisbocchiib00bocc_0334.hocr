@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achillisbocchiib00bocc_0334.png"; bbox 0 0 1976 3037; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 455 123 1856 349">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 455 123 1856 349">
+     <span class='ocr_line' id='line_1_1' title="bbox 455 123 1303 191; baseline -0.018 -1"><span class='ocrx_word' id='word_1_1' title='bbox 455 152 746 191; x_wconf 70' lang='lat' dir='ltr'>‚cctxxvxu</span> <span class='ocrx_word' id='word_1_2' title='bbox 1042 125 1198 179; x_wconf 64' lang='lat' dir='ltr'>Lfss.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1236 123 1303 177; x_wconf 90' lang='lat' dir='ltr'>V.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 482 270 1856 349; baseline -0.012 0"><span class='ocrx_word' id='word_1_4' title='bbox 482 282 962 349; x_wconf 82' lang='lat' dir='ltr'>ADVERSVS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1022 274 1263 338; x_wconf 78' lang='lat' dir='ltr'>IRAM</span> <span class='ocrx_word' id='word_1_6' title='bbox 1310 270 1856 343; x_wconf 76' lang='lat' dir='ltr'>SYMBOLVM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 477 384 1857 441">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 477 384 1857 441">
+     <span class='ocr_line' id='line_1_3' title="bbox 477 384 1857 441; baseline -0.006 0"><span class='ocrx_word' id='word_1_7' title='bbox 477 401 588 441; x_wconf 79' lang='lat' dir='ltr'>Mos</span> <span class='ocrx_word' id='word_1_8' title='bbox 647 398 734 439; x_wconf 73' lang='lat' dir='ltr'>EST</span> <span class='ocrx_word' id='word_1_9' title='bbox 793 394 1109 438; x_wconf 86' lang='lat' dir='ltr'>NOCENTVM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1167 388 1382 431; x_wconf 72' lang='lat' dir='ltr'>LAEDERE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1430 384 1857 433; x_wconf 78' lang='lat' dir='ltr'><strong>INNOCENTIAM·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 823 555 1493 649">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 823 555 1493 649">
+     <span class='ocr_line' id='line_1_4' title="bbox 823 555 1493 649; baseline -0.013 -24"><span class='ocrx_word' id='word_1_12' title='bbox 823 561 1015 649; x_wconf 80' lang='lat' dir='ltr'><strong>symb.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1113 555 1493 621; x_wconf 63' lang='lat' dir='ltr'>c¹XXv1112</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 498 703 1818 2474">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 498 703 1818 2474">
+     <span class='ocr_line' id='line_1_5' title="bbox 498 703 1818 2474; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 498 703 1818 2474; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

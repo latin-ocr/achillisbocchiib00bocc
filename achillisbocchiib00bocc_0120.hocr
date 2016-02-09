@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achillisbocchiib00bocc_0120.png"; bbox 0 0 1976 3037; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 552 113 1352 173">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 552 113 1352 173">
+     <span class='ocr_line' id='line_1_1' title="bbox 552 113 1352 173; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 552 135 697 171; x_wconf 73' lang='lat' dir='ltr'><strong>uum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1118 113 1197 173; x_wconf 83' lang='lat' dir='ltr'><strong>LI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1213 113 1271 173; x_wconf 80' lang='grc' dir='ltr'><strong>Β.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1310 114 1352 173; x_wconf 79' lang='lat'><strong>1·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 570 266 1924 441">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 570 266 1924 441">
+     <span class='ocr_line' id='line_1_2' title="bbox 570 266 1924 343; baseline 0.008 -16"><span class='ocrx_word' id='word_1_5' title='bbox 570 268 716 330; x_wconf 85' lang='lat' dir='ltr'><strong>NON</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 763 283 956 327; x_wconf 70' lang='grc' dir='ltr'>ΜνιτΑ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1001 285 1319 334; x_wconf 71' lang='lat' dir='ltr'>possmnNs,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1372 288 1468 333; x_wconf 58' lang='lat' dir='ltr'><strong>sun</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1511 291 1785 343; x_wconf 65' lang='grc' dir='ltr'><strong>ῐΜΡεΒΑΝε</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1825 266 1924 338; x_wconf 69' lang='lat' dir='ltr'><strong>sm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 867 392 1645 441; baseline 0.005 -4"><span class='ocrx_word' id='word_1_11' title='bbox 867 392 1136 437; x_wconf 75' lang='lat' dir='ltr'><strong>DmENDvs</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1184 394 1276 435; x_wconf 78' lang='lat' dir='ltr'><strong>EST</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1322 395 1645 441; x_wconf 74' lang='lat' dir='ltr'><strong>mnssmvs·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 559 551 1912 2527">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 559 551 1912 2527">
+     <span class='ocr_line' id='line_1_4' title="bbox 559 551 1912 2527; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 559 551 1912 2527; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

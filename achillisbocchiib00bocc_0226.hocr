@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achillisbocchiib00bocc_0226.png"; bbox 0 0 1976 3037; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 463 117 1282 180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 463 117 1282 180">
+     <span class='ocr_line' id='line_1_1' title="bbox 463 117 1282 180; baseline 0.011 -10"><span class='ocrx_word' id='word_1_1' title='bbox 463 137 589 172; x_wconf 61' lang='lat' dir='ltr'>cmxx</span> <span class='ocrx_word' id='word_1_2' title='bbox 961 120 1124 178; x_wconf 77' lang='lat' dir='ltr'>LIB-</span> <span class='ocrx_word' id='word_1_3' title='bbox 1163 117 1282 180; x_wconf 78' lang='grc' dir='ltr'>1Ῑῖ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 609 273 1697 340">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 609 273 1697 340">
+     <span class='ocr_line' id='line_1_2' title="bbox 609 273 1697 340; baseline 0.007 -8"><span class='ocrx_word' id='word_1_4' title='bbox 609 273 871 334; x_wconf 77' lang='lat' dir='ltr'>vaoNx</span> <span class='ocrx_word' id='word_1_5' title='bbox 917 275 1128 337; x_wconf 73' lang='lat' dir='ltr'>Pfivao</span> <span class='ocrx_word' id='word_1_6' title='bbox 1178 279 1410 339; x_wconf 82' lang='lat' dir='ltr'>PH1L1PP1</span> <span class='ocrx_word' id='word_1_7' title='bbox 1457 296 1697 340; x_wconf 69' lang='grc' dir='ltr'><strong>οεειιο.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 878 427 1420 546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 878 427 1420 546">
+     <span class='ocr_line' id='line_1_3' title="bbox 878 427 1420 546; baseline 0.011 -24"><span class='ocrx_word' id='word_1_8' title='bbox 878 459 1074 546; x_wconf 71' lang='lat' dir='ltr'><strong>Symb.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1164 427 1420 529; x_wconf 59' lang='lat' dir='ltr'>LXXXg</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 504 628 1873 2410">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 504 628 1873 2410">
+     <span class='ocr_line' id='line_1_4' title="bbox 504 628 1873 2410; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 504 628 1873 2410; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
